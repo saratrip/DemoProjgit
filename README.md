@@ -1,2 +1,2 @@
 # DemoProjgit
-This is demo project
+This is demo Sample project
